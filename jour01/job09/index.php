@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script src="script.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
-    <!-- balise script pour integrer le code dans le php -->
-    <script>
-    //fonction alert pour faire un pop-up 
-alert ("Hello Javascript!");
-</script>
+    <script> tri([1,3,5,9], "desc"); </script>
+    <script> tri([1,3,5,9], "asc");</script>
+    
+
 </body>
 </html>

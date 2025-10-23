@@ -1,2 +1,2 @@
 
-<script>alert(Hello Javascript)</script>
+alert('Hello Javascript');
